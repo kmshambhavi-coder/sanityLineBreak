@@ -8,7 +8,7 @@
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "This is a sanity test playbook to ensure if we are putting enter and What if it contains a line break",
+    "description": "<p>This is a sanity test playbook to ensure if we are <br>putting enter</p> \\nand What if it contains a line break",
     "environments": [
         "Default Environment"
     ],
@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "0f63ba6e-6ee1-4ede-8ac3-ad80b1286d14",
     "creationTimeUnixTimeInMs": 1766649723555,
-    "modificationTimeUnixTimeInMs": 1767083937891,
+    "modificationTimeUnixTimeInMs": 1767084429184,
     "trigger": {
         "id": 0,
         "identifier": "3aa51ba2-7f01-4fd7-88fd-58ea218a1744",
@@ -175,8 +175,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767083937849,
-            "modificationTimeUnixTimeInMs": 1767083937891,
+            "creationTimeUnixTimeInMs": 1767084429131,
+            "modificationTimeUnixTimeInMs": 1767084429184,
             "additionalProperties": {}
         }
     ],

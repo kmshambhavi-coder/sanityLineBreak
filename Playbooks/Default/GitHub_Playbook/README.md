@@ -1,5 +1,5 @@
 # GitHub_Playbook
-This is a sanity test playbook to ensure if we are putting enter and What if it contains a line break
+<p>This is a sanity test playbook to ensure if we are <br>putting enter</p> \nand What if it contains a line break
 
 
 
