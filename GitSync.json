@@ -1,0 +1,17 @@
+{
+    "system_version": "6.1.6.152",
+    "readme_addons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {
+            "BitBucket_playbook": "Jinja",
+            "GitHub_Playbook": "Jinja"
+        },
+        "Connector": {},
+        "Job": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
