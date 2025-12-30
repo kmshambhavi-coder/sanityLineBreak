@@ -1,6 +1,5 @@
 # Playground GitHub
-This is remote-remote playbook testing with line break But 
-
+<p>This is remote-remote playbook testing with line <br>break But</p> 
 what if it really contains a 
 line break 
 
