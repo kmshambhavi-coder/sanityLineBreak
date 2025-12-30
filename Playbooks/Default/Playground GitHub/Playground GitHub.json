@@ -9,7 +9,7 @@
     "creator": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "modifiedBy": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "priority": 2,
-    "description": "This is playbook testing with line break But \nwhat if it really contains a \nline break ",
+    "description": "This is playbook testing with line break But \n\nwhat if it really contains a \nline break ",
     "environments": [
         "Default Environment"
     ],
@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "50b57a0b-9510-4b26-9a31-22025976b81f",
     "creationTimeUnixTimeInMs": 1766750246116,
-    "modificationTimeUnixTimeInMs": 1767084672067,
+    "modificationTimeUnixTimeInMs": 1767086193447,
     "trigger": {
         "id": 0,
         "identifier": "7e2d481a-c09f-45b9-b6f6-38eab5734f8e",
@@ -110,7 +110,8 @@
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {}
+                    "additionalProperties": {},
+                    "InstanceDisplayName": null
                 },
                 {
                     "name": "MessageToAssignee",
@@ -198,8 +199,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767084671982,
-            "modificationTimeUnixTimeInMs": 1767084672067,
+            "creationTimeUnixTimeInMs": 1767086193386,
+            "modificationTimeUnixTimeInMs": 1767086193447,
             "additionalProperties": {}
         }
     ],
