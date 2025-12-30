@@ -1,5 +1,5 @@
 # Playground BitBucket
-Testing with Remote agent and Playbook are working fine 
+Testing with Remote agent and Playbook are working fine
 What if it contains line break
 
 

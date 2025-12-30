@@ -1,6 +1,6 @@
 # Playground GitHub
-<p>This is playbook testing with line break<br>
-But what if it really </p>\ncontains a 
+This is playbook testing with line break But 
+what if it really contains a 
 line break 
 
 

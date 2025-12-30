@@ -9,7 +9,7 @@
     "creator": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "modifiedBy": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "priority": 2,
-    "description": "Testing with Remote agent and Playbook are working fine \nWhat if it contains line break",
+    "description": "Testing with Remote agent and Playbook are working fine\nWhat if it contains line break",
     "environments": [
         "Default Environment"
     ],
@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "b06a80e8-8e47-46ee-8eda-947daa1141bd",
     "creationTimeUnixTimeInMs": 1766751618973,
-    "modificationTimeUnixTimeInMs": 1767084094452,
+    "modificationTimeUnixTimeInMs": 1767084503149,
     "trigger": {
         "id": 0,
         "identifier": "74e985c0-61af-4d5c-8ba9-ddfea9bda564",
@@ -199,8 +199,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767084094401,
-            "modificationTimeUnixTimeInMs": 1767084094452,
+            "creationTimeUnixTimeInMs": 1767084503087,
+            "modificationTimeUnixTimeInMs": 1767084503149,
             "additionalProperties": {}
         }
     ],
