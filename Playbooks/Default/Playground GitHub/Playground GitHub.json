@@ -9,7 +9,7 @@
     "creator": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "modifiedBy": "c8f17089-026a-433f-9dc6-9d855ba8695c",
     "priority": 2,
-    "description": "<p>This is remote-remote playbook testing with line <br>break But</p> \n\\nwhat if it really contains a \nline break ",
+    "description": "<p>This is remote-remote playbook testing with line <br>break But</p> \n\\nwhat if it really contains a \nline break \nnew line with enterkey",
     "environments": [
         "Default Environment"
     ],
@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "50b57a0b-9510-4b26-9a31-22025976b81f",
     "creationTimeUnixTimeInMs": 1766750246116,
-    "modificationTimeUnixTimeInMs": 1767086545895,
+    "modificationTimeUnixTimeInMs": 1767102196546,
     "trigger": {
         "id": 0,
         "identifier": "7e2d481a-c09f-45b9-b6f6-38eab5734f8e",
@@ -199,8 +199,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767086545833,
-            "modificationTimeUnixTimeInMs": 1767086545895,
+            "creationTimeUnixTimeInMs": 1767102196485,
+            "modificationTimeUnixTimeInMs": 1767102196546,
             "additionalProperties": {}
         }
     ],
