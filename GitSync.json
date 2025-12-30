@@ -1,12 +1,14 @@
 {
-    "system_version": "6.1.6.152",
+    "system_version": "6.3.62.1",
     "readme_addons": {
         "Integration": {},
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {
             "BitBucket_playbook": "Jinja",
-            "GitHub_Playbook": "Jinja"
+            "GitHub_Playbook": "Jinja",
+            "Playground GitHub": "Jinja",
+            "Playground BitBucket": "Jinja"
         },
         "Connector": {},
         "Job": {}
