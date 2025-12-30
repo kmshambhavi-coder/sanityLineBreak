@@ -8,7 +8,7 @@
     "creator": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "modifiedBy": "6d7110f6-33a0-4a48-8d24-386f7f6d6b7e",
     "priority": 2,
-    "description": "<p>This is a test playbook to ensure if we are putting <br>enter and </p>\n\\n What if it contains a line break",
+    "description": "This is push content playbook to check line\nbreak test<br> test",
     "environments": [
         "Default Environment"
     ],
@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "ad8642cd-4ffa-4cf3-beb9-4a067310835a",
     "creationTimeUnixTimeInMs": 1766648001429,
-    "modificationTimeUnixTimeInMs": 1767083434402,
+    "modificationTimeUnixTimeInMs": 1767087044725,
     "trigger": {
         "id": 0,
         "identifier": "fde3ce60-aa3e-415b-855f-4919e8d88f7f",
@@ -175,8 +175,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767083434361,
-            "modificationTimeUnixTimeInMs": 1767083434402,
+            "creationTimeUnixTimeInMs": 1767087044678,
+            "modificationTimeUnixTimeInMs": 1767087044725,
             "additionalProperties": {}
         }
     ],
