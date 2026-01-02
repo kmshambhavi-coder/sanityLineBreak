@@ -2,7 +2,7 @@
 This is push content playbook
 To  test enter
 key  line break
-<p>sanity for push content<br>And it is working fine </p>/n new line test
+<p>sanity for push content<br>And it is working fine </p>
 
 
 
