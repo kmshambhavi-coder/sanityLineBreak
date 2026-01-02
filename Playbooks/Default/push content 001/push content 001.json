@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "20e01bd2-2520-4c9c-8e1d-731224a49702",
-    "version": "0",
-    "isEnabled": false,
+    "identifier": "755381da-3101-4e53-9561-32ecf1c39673",
+    "version": "1",
+    "isEnabled": true,
     "isDebugMode": false,
-    "name": "Github_playbook-001",
+    "name": "push content 001",
     "creator": "467775f9-1f53-45fc-b9f8-ee5491d808fb",
     "modifiedBy": "467775f9-1f53-45fc-b9f8-ee5491d808fb",
     "priority": 2,
-    "description": "Push content final test this is github playbook to test line break\nthrough podman \nwith Enter Key",
+    "description": "This is push content playbook\nTo  test enter\nkey  line break\n<p>sanity for push content<br>And it is working fine </p>/n new line test",
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "0f12b54d-aa03-4aed-ab9e-fc021b044313",
-    "creationTimeUnixTimeInMs": 1767101226047,
-    "modificationTimeUnixTimeInMs": 1767355914267,
+    "originalPlaybookIdentifier": "755381da-3101-4e53-9561-32ecf1c39673",
+    "creationTimeUnixTimeInMs": 1767355402705,
+    "modificationTimeUnixTimeInMs": 1767355402705,
     "trigger": {
         "id": 0,
-        "identifier": "253865ed-05bc-4509-a981-d28843680c61",
+        "identifier": "0df6da2d-7ace-484e-9387-eec524e33c88",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,8 +33,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "174339b7-31fc-4a1e-aad1-7ec7a44a463e",
-            "originalStepIdentifier": "11e37179-5e5f-47ca-97f8-074c05962ada",
+            "identifier": "82c72d84-eee6-48ad-ac22-01f57b8bc499",
+            "originalStepIdentifier": "82c72d84-eee6-48ad-ac22-01f57b8bc499",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "GitSync_Ping_1",
@@ -171,12 +171,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "20e01bd2-2520-4c9c-8e1d-731224a49702",
+            "workflowIdentifier": "755381da-3101-4e53-9561-32ecf1c39673",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767355914205,
-            "modificationTimeUnixTimeInMs": 1767355914267,
+            "creationTimeUnixTimeInMs": 1767355402705,
+            "modificationTimeUnixTimeInMs": 1767355402705,
             "additionalProperties": {}
         }
     ],
