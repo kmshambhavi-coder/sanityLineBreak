@@ -1,25 +1,25 @@
 {
     "id": 0,
-    "identifier": "1d5641be-d641-484d-b634-358b185e474f",
+    "identifier": "d1e3bc38-3098-48bc-9eed-4ca984f7f5a1",
     "version": "1",
-    "isEnabled": false,
+    "isEnabled": true,
     "isDebugMode": false,
-    "name": "BitBucket-001",
+    "name": "newest playbook",
     "creator": "467775f9-1f53-45fc-b9f8-ee5491d808fb",
     "modifiedBy": "467775f9-1f53-45fc-b9f8-ee5491d808fb",
     "priority": 2,
-    "description": "This is palybook to test new line \nbreak with enter key\nnew  line withb enter key\nshift enter jaya ",
+    "description": "this is 43 version\nthis is first\nwith enter key\nand other with shift enter\n\nsuggested by dev",
     "environments": [
         "Default Environment"
     ],
     "categoryName": "Default",
     "categoryId": 1,
-    "originalPlaybookIdentifier": "1d5641be-d641-484d-b634-358b185e474f",
-    "creationTimeUnixTimeInMs": 1767101930349,
-    "modificationTimeUnixTimeInMs": 1767598925729,
+    "originalPlaybookIdentifier": "d1e3bc38-3098-48bc-9eed-4ca984f7f5a1",
+    "creationTimeUnixTimeInMs": 1767599110278,
+    "modificationTimeUnixTimeInMs": 1767600582814,
     "trigger": {
         "id": 0,
-        "identifier": "4fa248ae-6a8f-4913-9957-60012959dbde",
+        "identifier": "311d4f27-c1c8-480b-82ab-b23236e2ce4e",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -33,8 +33,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "f0a47b6c-5e32-4822-9113-ec3e13801dc0",
-            "originalStepIdentifier": "f0a47b6c-5e32-4822-9113-ec3e13801dc0",
+            "identifier": "0170f7a5-eac5-4b18-b17f-565c15b12b75",
+            "originalStepIdentifier": "0170f7a5-eac5-4b18-b17f-565c15b12b75",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "GitSync_Ping_1",
@@ -102,14 +102,15 @@
                 },
                 {
                     "name": "IntegrationInstance",
-                    "value": "395969f7-2477-46db-acf8-028f0c3f9c47",
+                    "value": "b2255f9c-7f77-432e-8db4-8b2981d58131",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
                     "id": 0,
                     "creationTimeUnixTimeInMs": 0,
                     "modificationTimeUnixTimeInMs": 0,
-                    "additionalProperties": {}
+                    "additionalProperties": {},
+                    "InstanceDisplayName": "System Default Instance"
                 },
                 {
                     "name": "MessageToAssignee",
@@ -171,12 +172,12 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "1d5641be-d641-484d-b634-358b185e474f",
+            "workflowIdentifier": "d1e3bc38-3098-48bc-9eed-4ca984f7f5a1",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1767598925682,
-            "modificationTimeUnixTimeInMs": 1767598925729,
+            "creationTimeUnixTimeInMs": 1767600582767,
+            "modificationTimeUnixTimeInMs": 1767600582814,
             "additionalProperties": {}
         }
     ],
